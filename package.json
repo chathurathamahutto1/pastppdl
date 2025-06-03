@@ -1,0 +1,16 @@
+{
+  "name": "chathurapass",
+  "version": "1.0.0",
+  "description": "G.C.E A/L Past Papers Scraper",
+  "main": "netlify/functions/scraper.js",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
