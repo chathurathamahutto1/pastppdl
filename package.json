@@ -1,7 +1,7 @@
 {
-  "name": "chathurapass",
+  "name": "chathurapassdl",
   "version": "1.0.0",
-  "description": "G.C.E A/L Past Papers Scraper",
+  "description": "G.C.E A/L Past Papers Download Link Scraper",
   "main": "netlify/functions/scraper.js",
   "scripts": {
     "start": "netlify dev"
